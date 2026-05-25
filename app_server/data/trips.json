@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Beach Paradise",
+    "length": "7 nights",
+    "price": "$1200",
+    "image": "/images/sea-sound.jpg",
+    "description": "Enjoy beautiful beaches and relaxing ocean views."
+  },
+  {
+    "name": "Mountain Adventure",
+    "length": "5 nights",
+    "price": "$950",
+    "image": "/images/rooms.png",
+    "description": "Experience hiking trails and amazing mountain scenery."
+  },
+  {
+    "name": "Island Escape",
+    "length": "6 nights",
+    "price": "$1400",
+    "image": "/images/dive-site.png",
+    "description": "Relax on a tropical island with clear blue water."
+  }
+]
